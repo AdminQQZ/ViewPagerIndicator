@@ -74,14 +74,14 @@
                 android:text="圆角矩形(circle_line)"/>
             <com.lwj.widget.viewpagerindicator.ViewPagerIndicator
                 android:id="@+id/indicator_circle_line"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="50dp"
                 android:background="#efefef"
                 app:vpi_default_color="#FF239AF5"
-                app:vpi_distance="60dp"
-                app:vpi_distanceType="BY_LAYOUT"
+                app:vpi_distance="10dp"
+                app:vpi_distanceType="BY_RADIUS"
                 app:vpi_indicatorType="CIRCLE_LINE"
-                app:vpi_radius="10dp"
+                app:vpi_radius="5dp"
                 app:vpi_selected_color="#FF239AF5"
                 />
             <TextView
