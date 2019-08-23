@@ -1,3 +1,6 @@
+## 2019年8月23日
+调整工程,新版本android stduio 3.5能正常构建项目。
+
 ## ViewPagerIndicator
 
  一个简单好用的ViewPagerIndicator，提供了五种类型，采用在XML布局中定制颜色大小等参数，在JAVA代码中只需二行代码就能为viewpager添加酷炫效果，并且支持轮播图。
